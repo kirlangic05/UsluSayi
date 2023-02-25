@@ -17,10 +17,10 @@ public class DortKatlariniTopla {
                }
            }else
                System.out.println("Lütfen tek sayı girişi yapmayınız.");
-           System.out.println(toplam);
+
        }
         while ((a % 2 == 0));
-
+        System.out.println("Toplam : " +toplam);
 
 
 
